@@ -1,0 +1,7 @@
+*~
+*.ocf
+*.osf
+*.exe
+odc*
+Extractors/venv/*
+.vscode/launch.json
